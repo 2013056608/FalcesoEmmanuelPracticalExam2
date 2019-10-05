@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FalcesoEmmanuelJohnPracticalExam2</string>
+    <string name="f_elec3">F-ELEC3</string>
+    <string name="f_elec2">F-ELEC2</string>
+    <string name="it_elec4">IT-ELEC4</string>
+    <string name="it_elec3">IT-ELEC3</string>
+    <string name="it_elec2">IT-ELEC2</string>
+    <string name="it_125">IT 125</string>
+    <string name="ics_115">ICS 115</string>
+    <string name="it_205">IT 205</string>
+    <string name="_4th_yr_bsit">4th yr BSIT</string>
+    <string name="comments">Comments</string>
+    <string name="next">next</string>
+    <string name="save">save</string>
+    <string name="requested_subjects">REQUESTED SUBJECTS</string>
+    <string name="subjects_listed_here">Subjects listed here</string>
+    <string name="send">send</string>
+    <string name="previous">previous</string>
+</resources>
